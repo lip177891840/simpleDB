@@ -1,0 +1,7 @@
+1    ,bulaike                       , 24;
+2    ,tomcat                        , 30;
+4    ,hadoop_cluster                , 50;
+5    ,hbase                         , 30;
+6    ,kafaka                        , 40;
+7    ,mysql                         , 70;
+9    ,oracle                        ,100;
